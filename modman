@@ -1,0 +1,3 @@
+app/code/community/Eschrade/Autoloader/etc/config.xml app/code/community/Eschrade/Autoloader/etc/config.xml
+app/code/community/Eschrade/Autoloader/Model/Autoloader.php app/code/community/Eschrade/Autoloader/Model/Autoloader.php
+app/etc/modules/Eschrade_Autoloader.xml app/etc/modules/Eschrade_Autoloader.xml

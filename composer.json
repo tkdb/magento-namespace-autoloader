@@ -1,0 +1,12 @@
+{
+    "name": "kschroeder/magento-namespace-autoloader",
+    "type": "magento-module",
+    "license": "TODO proprietary (ask Kevin Schroeder)",
+    "description": "A simple Magento 1 module that allows to use PHP 5.3 namespaced code.",
+    "authors":[
+        {
+            "name":"Kevin Schroeder",
+            "email":"kschroeder@mirageworks.com"
+        }
+    ]
+}
